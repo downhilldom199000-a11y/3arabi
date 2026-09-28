@@ -4,6 +4,6 @@
   "description": "Arabic movies, series & anime providers — ported from CloudStream re-3arabi to SkyStream native JS plugins. Adds 3isk (قصة عشق), Aflaam, Akwam, CimaClub.",
   "manifestVersion": 1,
   "pluginLists": [
-    "PLACEHOLDER_RUN_publish.sh_TO_SET_ABSOLUTE_URL"
+    "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/plugins.json"
   ]
 }
