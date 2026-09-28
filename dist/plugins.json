@@ -5,21 +5,13 @@
     "version": 1,
     "baseUrl": "https://3esk.onl",
     "description": "Arabic movies & TV series (قصة عشق) — ported from CloudStream re-3arabi to SkyStream native JS plugin. Supports search, home catalog, series + movie load, multi-server embed extraction with Dean-Edwards packer unpacking.",
-    "authors": [
-      "Abodabodd (original)",
-      "SkyStream port"
-    ],
-    "languages": [
-      "ar"
-    ],
-    "categories": [
-      "Movie",
-      "TvSeries"
-    ],
-    "url": "dist/dev.arabi.skystream.threeisk.sky",
+    "authors": ["Abodabodd (original)", "SkyStream port"],
+    "languages": ["ar"],
+    "categories": ["Movie", "TvSeries"],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.threeisk.sky",
     "fileSize": 10094,
     "status": 1,
-    "repositoryUrl": ""
+    "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   },
   {
     "packageName": "dev.arabi.skystream.aflaam",
@@ -27,21 +19,13 @@
     "version": 1,
     "baseUrl": "https://aflaam.com",
     "description": "Arabic movies & series (aflaam.com) — ported from CloudStream re-3arabi. Direct-quality MP4 sources, no embed extraction needed.",
-    "authors": [
-      "Abodabodd (original)",
-      "SkyStream port"
-    ],
-    "languages": [
-      "ar"
-    ],
-    "categories": [
-      "Movie",
-      "TvSeries"
-    ],
-    "url": "dist/dev.arabi.skystream.aflaam.sky",
+    "authors": ["Abodabodd (original)", "SkyStream port"],
+    "languages": ["ar"],
+    "categories": ["Movie", "TvSeries"],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.aflaam.sky",
     "fileSize": 8152,
     "status": 1,
-    "repositoryUrl": ""
+    "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   },
   {
     "packageName": "dev.arabi.skystream.akwam",
@@ -49,43 +33,26 @@
     "version": 1,
     "baseUrl": "https://ak.sv",
     "description": "Arabic movies, series & anime (akwam) — ported from CloudStream re-3arabi. Auto-updating base URL, multi-season series support, direct MP4 quality sources.",
-    "authors": [
-      "Abodabodd (original)",
-      "SkyStream port"
-    ],
-    "languages": [
-      "ar"
-    ],
-    "categories": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "url": "dist/dev.arabi.skystream.akwam.sky",
+    "authors": ["Abodabodd (original)", "SkyStream port"],
+    "languages": ["ar"],
+    "categories": ["Movie", "TvSeries", "Anime"],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.akwam.sky",
     "fileSize": 9857,
     "status": 1,
-    "repositoryUrl": ""
+    "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   },
   {
     "packageName": "dev.arabi.skystream.cimaclub",
     "name": "CimaClub",
     "version": 1,
     "baseUrl": "https://cimacub.com",
-    "description": "Arabic movies & series (cimaclub) — ported from CloudStream re-3arabi. NOTE: original used CloudStream ExtractorApi for embed hosts (vidplay/streamtape etc.). SkyStream has no ExtractorApi equivalent, so embed URLs are emitted as StreamResults directly (plays when the URL is a direct media file; lists otherwise).",
-    "authors": [
-      "Abodabodd (original)",
-      "SkyStream port"
-    ],
-    "languages": [
-      "ar"
-    ],
-    "categories": [
-      "Movie",
-      "TvSeries"
-    ],
-    "url": "dist/dev.arabi.skystream.cimaclub.sky",
+    "description": "Arabic movies & series (cimaclub) — ported from CloudStream re-3arabi.",
+    "authors": ["Abodabodd (original)", "SkyStream port"],
+    "languages": ["ar"],
+    "categories": ["Movie", "TvSeries"],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.cimaclub.sky",
     "fileSize": 8432,
     "status": 1,
-    "repositoryUrl": ""
+    "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   }
 ]
