@@ -1,0 +1,10 @@
+{
+  "packageName": "dev.arabi.skystream.threeisk",
+  "name": "3isk | قصة عشق",
+  "version": 1,
+  "baseUrl": "https://3esk.onl",
+  "description": "Arabic movies & TV series (قصة عشق) — ported from CloudStream re-3arabi to SkyStream native JS plugin. Supports search, home catalog, series + movie load, multi-server embed extraction with Dean-Edwards packer unpacking.",
+  "authors": ["Abodabodd (original)", "SkyStream port"],
+  "languages": ["ar"],
+  "categories": ["Movie", "TvSeries"]
+}

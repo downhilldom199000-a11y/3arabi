@@ -1,0 +1,10 @@
+{
+  "packageName": "dev.arabi.skystream.akwam",
+  "name": "Akwam",
+  "version": 1,
+  "baseUrl": "https://ak.sv",
+  "description": "Arabic movies, series & anime (akwam) — ported from CloudStream re-3arabi. Auto-updating base URL, multi-season series support, direct MP4 quality sources.",
+  "authors": ["Abodabodd (original)", "SkyStream port"],
+  "languages": ["ar"],
+  "categories": ["Movie", "TvSeries", "Anime"]
+}

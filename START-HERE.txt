@@ -1,0 +1,60 @@
+╔══════════════════════════════════════════════════════════════════╗
+║  3arabi for SkyStream — 4 providers (3isk, Aflaam, Akwam, CimaClub) ║
+╚══════════════════════════════════════════════════════════════════╝
+
+This folder contains a SkyStream plugin repository with 4 working Arabic
+content providers, ported from the CloudStream "re-3arabi" project.
+
+────────────────────────────────────────────────────────────────────
+WHAT'S INSIDE
+────────────────────────────────────────────────────────────────────
+  repo.json              ← SkyStream repository manifest
+  dist/
+    plugins.json         ← list of 4 plugins (with download URLs)
+    *.sky                ← the 4 plugin packages (ZIP files)
+  plugins/               ← source code for each provider
+  build/                 ← build script + shared cs3compat library
+  publish.sh             ← regenerates dist/ with correct GitHub URLs
+
+────────────────────────────────────────────────────────────────────
+HOW TO PUBLISH (2 options)
+────────────────────────────────────────────────────────────────────
+
+OPTION A — EASIEST (tell the AI your GitHub username/repo)
+  Reply to the AI with something like:
+    "My GitHub repo will be: myusername/skystream-arabi"
+  The AI will regenerate this ZIP with the correct absolute URLs baked in.
+  You then just upload the files to GitHub — no build step needed.
+
+OPTION B — DO IT YOURSELF (requires Node.js + bash on your computer)
+  1. Create an empty public GitHub repo (e.g. myusername/skystream-arabi)
+  2. Upload ALL these files to the repo root (on the main branch)
+  3. On your computer, run:
+       cd skystream-arabi
+       ./publish.sh myusername/skystream-arabi main
+  4. Commit + push the regenerated repo.json and dist/plugins.json:
+       git add repo.json dist/plugins.json
+       git commit -m "publish with absolute URLs"
+       git push
+
+────────────────────────────────────────────────────────────────────
+AFTER PUBLISHING — add to SkyStream
+────────────────────────────────────────────────────────────────────
+  SkyStream → Extensions → Add Repository → paste:
+    https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/repo.json
+
+  You'll see 4 providers:
+    - 3isk | قصة عشق
+    - Aflaam
+    - Akwam
+    - CimaClub
+  Tap Install on each. Done.
+
+────────────────────────────────────────────────────────────────────
+IMPORTANT — the current repo.json has a PLACEHOLDER URL
+────────────────────────────────────────────────────────────────────
+  Right now repo.json contains:
+    "pluginLists": ["PLACEHOLDER_RUN_publish.sh_TO_SET_ABSOLUTE_URL"]
+
+  This will NOT work in SkyStream. You MUST run Option A or Option B
+  above to bake in the real GitHub raw URLs.

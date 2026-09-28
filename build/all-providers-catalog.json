@@ -1,0 +1,911 @@
+[
+  {
+    "packageName": "dev.arabi.skystream.threeisk",
+    "name": "3isk",
+    "version": 1,
+    "baseUrl": "",
+    "description": "[PORTED] Series+Movie, base64 URLs, Dean Edwards packer unpacker, multi-POST embed flow. FULLY PORTED.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/3isk.cs3",
+    "originalFileHash": "sha256-00ead28e610d86add9fc0e3fd937c1dfe863b66b0c5686e28bebf8039c7ab86a",
+    "originalFileSize": 31165,
+    "portingStatus": "ported",
+    "portingNote": "Series+Movie, base64 URLs, Dean Edwards packer unpacker, multi-POST embed flow. FULLY PORTED."
+  },
+  {
+    "packageName": "dev.arabi.skystream.aflaam",
+    "name": "Aflaam",
+    "version": 1,
+    "baseUrl": "",
+    "description": "[PORTED] Movies+Series, direct MP4 quality sources via div.qualities a.link-show -> video#player source. FULLY PORTED.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://aflaam.com/style/assets/images/logo.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Aflaam.cs3",
+    "originalFileHash": "sha256-c8cbba4f4f36d76907d2b366baa480d9201b16079cef9c3bd85f20cc3049e183",
+    "originalFileSize": 15484,
+    "portingStatus": "ported",
+    "portingNote": "Movies+Series, direct MP4 quality sources via div.qualities a.link-show -> video#player source. FULLY PORTED."
+  },
+  {
+    "packageName": "dev.arabi.skystream.aia2tv2",
+    "name": "Asia2tv 2",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] AsianDrama, known embed host extraction. Needs host-specific decoder.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Aia2tv 2.cs3",
+    "originalFileHash": "sha256-1de87a498012cf7252b83f54eeb637a8b4cb482fe7114a1bd66b3adfbae1154e",
+    "originalFileSize": 14286,
+    "portingStatus": "medium",
+    "portingNote": "AsianDrama, known embed host extraction. Needs host-specific decoder."
+  },
+  {
+    "packageName": "dev.arabi.skystream.akwam",
+    "name": "Akwam",
+    "version": 1,
+    "baseUrl": "",
+    "description": "[PORTED] Movies+Series+Anime, auto-updating URL, Arabic-ordinal season sort, direct MP4. FULLY PORTED.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Akwam.cs3",
+    "originalFileHash": "sha256-cd29b55725e0db70296c1831ea6c6136889f14eb01e57eb6c32afc998e93ecb2",
+    "originalFileSize": 27980,
+    "portingStatus": "ported",
+    "portingNote": "Movies+Series+Anime, auto-updating URL, Arabic-ordinal season sort, direct MP4. FULLY PORTED."
+  },
+  {
+    "packageName": "dev.arabi.skystream.alooytv",
+    "name": "Alooytv",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[EASY] Movies+Series, direct sources. Ready to port with the cs3compat template.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Alooytv.cs3",
+    "originalFileHash": "sha256-96607f1f5b4e32f5ce688a75b459ab77d8bad97d08b1a2a2bc5f5dcd54035197",
+    "originalFileSize": 14658,
+    "portingStatus": "easy",
+    "portingNote": "Movies+Series, direct sources. Ready to port with the cs3compat template."
+  },
+  {
+    "packageName": "dev.arabi.skystream.anim3rb",
+    "name": "Anime3rb",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Anime, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anim3rb.cs3",
+    "originalFileHash": "sha256-99b3077c567fe62084729d04529f0a0ba831dae8376992b7b0be23f785880f71",
+    "originalFileSize": 36516,
+    "portingStatus": "hard",
+    "portingNote": "Anime, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.animephoenix",
+    "name": "Anime-Phoenix",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Anime, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anime-Phoenix.cs3",
+    "originalFileHash": "sha256-758b3bb9eab01fee2704b281413960512014c45c3612184c20fe62e1ee984ed1",
+    "originalFileSize": 27126,
+    "portingStatus": "hard",
+    "portingNote": "Anime, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.anime4up",
+    "name": "Anime4up",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Anime, packer + embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anime4up.cs3",
+    "originalFileHash": "sha256-30ae4aaab6596ed950a55d5a41dfd44d42721c7d1e9af0fea2eabc61a40ece06",
+    "originalFileSize": 37890,
+    "portingStatus": "hard",
+    "portingNote": "Anime, packer + embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.animerco",
+    "name": "Animerco",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Series+Movie, packer + embed hosts (largest provider).",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/file_0000000042f861f49090744dc097ee2f.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Animerco.cs3",
+    "originalFileHash": "sha256-795b94f18654b53250a61513711ace519593a3583bfc48a6cf2e0d5af43bbf7f",
+    "originalFileSize": 91390,
+    "portingStatus": "hard",
+    "portingNote": "Series+Movie, packer + embed hosts (largest provider)."
+  },
+  {
+    "packageName": "dev.arabi.skystream.animerift",
+    "name": "AnimeRift",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Anime, embed hosts. Needs host decoder.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/AnimeRift/icon.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/AnimeRift.cs3",
+    "originalFileHash": "sha256-9ba88208f3fcd51845046737380453ec02dc1d4b48bab326ca7f329d8136e27f",
+    "originalFileSize": 48574,
+    "portingStatus": "medium",
+    "portingNote": "Anime, embed hosts. Needs host decoder."
+  },
+  {
+    "packageName": "dev.arabi.skystream.animewitcher",
+    "name": "AnimeWitcher",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Anime, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/anime_witcher_round_icon.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Animewitcher.cs3",
+    "originalFileHash": "sha256-4c639f9392d46e45f4ee84e8799c810cc1d11fba2f13ff7e32865c71987c2fb4",
+    "originalFileSize": 34328,
+    "portingStatus": "hard",
+    "portingNote": "Anime, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.bristege",
+    "name": "Brstej",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Anime, uses 3isk-style packer (cs3compat covers) + embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Anime"
+    ],
+    "iconUrl": "https://amd.brstej.com/22.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Bristege.cs3",
+    "originalFileHash": "sha256-17c6074460176b5547d0d242c09727c427bedae8bfe2529693e60f0b0348cb31",
+    "originalFileSize": 26137,
+    "portingStatus": "hard",
+    "portingNote": "Anime, uses 3isk-style packer (cs3compat covers) + embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.cee",
+    "name": "Cee (🇮🇶)",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[EASY] REST-API-first (JSON), no embed scraping. Trivial port.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cee.cs3",
+    "originalFileHash": "sha256-131f942fa11bc89677543280a02ae2a9e2e19bc5c4d73fa3636ae8c5444c4f46",
+    "originalFileSize": 47031,
+    "portingStatus": "easy",
+    "portingNote": "REST-API-first (JSON), no embed scraping. Trivial port."
+  },
+  {
+    "packageName": "dev.arabi.skystream.cimaclub",
+    "name": "CimaClub",
+    "version": 1,
+    "baseUrl": "",
+    "description": "[PORTED] Movies+Series. loadLinks originally used CloudStream ExtractorApi (loadExtractor). Emitted as StreamResult (graceful degradation). PARTIAL — plays direct URLs only.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1z-0NYyzyEiFs4q7X9c8SSBR6kJtVl7f7A&s",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/CimaClub.cs3",
+    "originalFileHash": "sha256-2cfbf3abb5892b22f299ac8b5ca7711c073ed38a930c91748e696fbfdd885052",
+    "originalFileSize": 17361,
+    "portingStatus": "ported",
+    "portingNote": "Movies+Series. loadLinks originally used CloudStream ExtractorApi (loadExtractor). Emitted as StreamResult (graceful degradation). PARTIAL — plays direct URLs only."
+  },
+  {
+    "packageName": "dev.arabi.skystream.cimalight",
+    "name": "Cimalight",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Series+Movie+Anime, packer + embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/n2PDvQiQVV00JjGsg66dvMZKmyoolvCeu59Xe40pmEvhiMNE1tHqKsoEY1IpfdNNXdlle4It=s900-c-k-c0x00ffffff-no-rj",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cimalight.cs3",
+    "originalFileHash": "sha256-41def442115b7018006e81b3184a3ab99ba75552900a9e043ac257a1bd18651a",
+    "originalFileSize": 25913,
+    "portingStatus": "hard",
+    "portingNote": "Series+Movie+Anime, packer + embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.cimatn",
+    "name": "Cimatn",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Drama, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7OxHmLaqTWIj7eJv55zxus1xKVp5ssQPAKYjydt7Lg&s",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cimatn.cs3",
+    "originalFileHash": "sha256-1540f9de487a50bf0b67d2a79de14314439fda95c1b2df51ca385b6c15402a50",
+    "originalFileSize": 38289,
+    "portingStatus": "medium",
+    "portingNote": "Drama, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.cinemana",
+    "name": "Shabakaty Cinemana (🇮🇶)",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[EASY] REST-API-first (Shahid-like JSON). Trivial port.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/cinemana.cs3",
+    "originalFileHash": "sha256-5e1efeda9d8770f78eeefab77fc1c0454379496156cdfa8f939277124c1c2ece",
+    "originalFileSize": 54226,
+    "portingStatus": "easy",
+    "portingNote": "REST-API-first (Shahid-like JSON). Trivial port."
+  },
+  {
+    "packageName": "dev.arabi.skystream.dimatoon",
+    "name": "Dima toon",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Anime, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://www.dima-toon.com/wp-content/uploads/2025/10/DimaToonlogo11.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/dima-toon.cs3",
+    "originalFileHash": "sha256-048fc02cd74f7d43a2618a563a17c3727a2a801accb20f9e1cf13ef6e68619ef",
+    "originalFileSize": 19812,
+    "portingStatus": "medium",
+    "portingNote": "Anime, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.egydead",
+    "name": "Egydead",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Movies+Series+Anime, packer + embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kgVTM6DJtx3tcS4gkPOOPnwFXKNhsrFyMRigWOlWomuQ=s900-c-k-c0x00ffffff-no-rj",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Egydead.cs3",
+    "originalFileHash": "sha256-837684d369f62ef16deda7e23eb460eac3aae6b8f14183aef700bd203e9ccb3d",
+    "originalFileSize": 53726,
+    "portingStatus": "hard",
+    "portingNote": "Movies+Series+Anime, packer + embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.elif",
+    "name": "Elif",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Series+Anime, embed hosts + packer.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq14Sk88U37tIhiRndbNczqn0ectswZly90f1oCa_zbg&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Elif.cs3",
+    "originalFileHash": "sha256-c64058bd30c7e7b6feb0ab6cbcfbf46109529d2e2c3804d12885a9f402e3f8a2",
+    "originalFileSize": 31057,
+    "portingStatus": "hard",
+    "portingNote": "Series+Anime, embed hosts + packer."
+  },
+  {
+    "packageName": "dev.arabi.skystream.eseek",
+    "name": "Eshek",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Series+Movie, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/eseek.cs3",
+    "originalFileHash": "sha256-70bf9c63b28da3e848ede393cf592fa51d10f42b5518fac3e6c063662c17b166",
+    "originalFileSize": 37973,
+    "portingStatus": "hard",
+    "portingNote": "Series+Movie, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.faselhd",
+    "name": "Faselhd",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[BLOCKED] Requires WebView with JS fetch-hook to capture m3u8. SkyStream plugins have no WebView API. BLOCKED until SkyStream adds a plugin-facing WebView.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03aoQBNDy_Hkm5MUGGvluPvK7To7BdGiSnzQn7WJ3fQ&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Faselhd.cs3",
+    "originalFileHash": "sha256-ffdcb7efc760f82032f2d2822a8c1e985e0bba8e763be3925b2884a9b6a81de9",
+    "originalFileSize": 55602,
+    "portingStatus": "blocked",
+    "portingNote": "Requires WebView with JS fetch-hook to capture m3u8. SkyStream plugins have no WebView API. BLOCKED until SkyStream adds a plugin-facing WebView."
+  },
+  {
+    "packageName": "dev.arabi.skystream.krmzy",
+    "name": "Krmzy",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Series+Movie, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Krmzy.cs3",
+    "originalFileHash": "sha256-785b7fc9326398763dd7343b90658e28b5aae1f7ce3fa1de72fc09a67e6b99e6",
+    "originalFileSize": 29631,
+    "portingStatus": "hard",
+    "portingNote": "Series+Movie, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.lodynet",
+    "name": "LodyNet",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Movies, packer + embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "Other"
+    ],
+    "iconUrl": "https://lodynet.watch/wp-content/themes/Lodynet2020/Img/Logo.webp",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Lodynet.cs3",
+    "originalFileHash": "sha256-56a9ab9dc9f8e2c05ce66a0a572591581e47575711c378c1d1929c7244ca9f73",
+    "originalFileSize": 44495,
+    "portingStatus": "hard",
+    "portingNote": "Movies, packer + embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.mycimaprovider",
+    "name": "Mycima",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Movies+Series+Anime+AsianDrama, cookie-harvesting + embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoF3lscri32oVf0iQlhbjFEoUn2xg3OmQIx4wYdDmqw&s",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/MyCimaProvider.cs3",
+    "originalFileHash": "sha256-ff8e09bb07cb94fad7216e8c6a29bdff3d5758e6f7f1c4b68bacad18935bfe5a",
+    "originalFileSize": 45475,
+    "portingStatus": "hard",
+    "portingNote": "Movies+Series+Anime+AsianDrama, cookie-harvesting + embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.replaymatch",
+    "name": "FullMatchShows",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Sports replays (en), embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Movie",
+      "Other",
+      "LiveTv"
+    ],
+    "iconUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Replaymatch.cs3",
+    "originalFileHash": "sha256-9702287e1acdbc6556a5f43350aac49df0fc323c2bb50ecc55f0f9173851e147",
+    "originalFileSize": 29210,
+    "portingStatus": "hard",
+    "portingNote": "Sports replays (en), embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.shahid4u",
+    "name": "Shahid4u",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Movies+Series, embed hosts + packer.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ig85ZYdRsjDw--peeI2RsBqOWmvnmvKKsT4UONdPMQ&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Shahid4u.cs3",
+    "originalFileHash": "sha256-4b96b8b6f45a5e2f630ae2ef8d5f8e40f2037a927dbc5275eae30dc7b63b35af",
+    "originalFileSize": 36553,
+    "portingStatus": "hard",
+    "portingNote": "Movies+Series, embed hosts + packer."
+  },
+  {
+    "packageName": "dev.arabi.skystream.shahidwbas",
+    "name": "Shahidwbas",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Movies+Series, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://cdn.wccftech.com/wp-content/uploads/2018/01/Youtube-music.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Shahidwbas.cs3",
+    "originalFileHash": "sha256-f89172fe028aa79efa3ca5a4c48ddb5080548fb430528ee2f42a56f89280895d",
+    "originalFileSize": 18361,
+    "portingStatus": "medium",
+    "portingNote": "Movies+Series, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.syrialive",
+    "name": "Syrialive",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Live TV.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "LiveTv"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF607wnarFL8Ob8KLPahUPJzcLjbtg1pEH0A&s",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Syria-live.cs3",
+    "originalFileHash": "sha256-48b9fa4a88c0372a6c2c756a5502bf21e8f01c7215ab2dc3daebfe259eb8e955",
+    "originalFileSize": 16742,
+    "portingStatus": "medium",
+    "portingNote": "Live TV."
+  },
+  {
+    "packageName": "dev.arabi.skystream.topcinema",
+    "name": "TopCinema",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Uses 3isk-style packer; cs3compat.unpackPacker covers it.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "Other"
+    ],
+    "iconUrl": "https://web8.topcinema.cam/wp-content/uploads/2023/05/cropped-icon-32x32.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Topcinema.cs3",
+    "originalFileHash": "sha256-04fe8195714a8ef8c38545ad8c135b219dfa2b1e2728ba70da82aa509964f69c",
+    "originalFileSize": 28702,
+    "portingStatus": "medium",
+    "portingNote": "Uses 3isk-style packer; cs3compat.unpackPacker covers it."
+  },
+  {
+    "packageName": "dev.arabi.skystream.tuktukcima",
+    "name": "Tuktukcima",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Movies+Series, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10TEG3tTtkEF9_g3IslEP3xs0wx9EVhBs7b_H5M1gpg&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TukTukcima.cs3",
+    "originalFileHash": "sha256-544bdb138d7644b6da28471fba9f56b50cc57fb877a310a0108f891ab0ab855e",
+    "originalFileSize": 42735,
+    "portingStatus": "medium",
+    "portingNote": "Movies+Series, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.tuniflexblog",
+    "name": "TuniflexBlog",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[EASY] Anime, direct sources. Ready to port.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo47ccjaIfUnxJjGujQd6qTKTZH70W6LFeaFXht5TE8w&s",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TuniflexBlog.cs3",
+    "originalFileHash": "sha256-fb5f3d6a382d5f161d8c0bcaad709a494c3b8acb0579bb491f6c2dcb28771224",
+    "originalFileSize": 20750,
+    "portingStatus": "easy",
+    "portingNote": "Anime, direct sources. Ready to port."
+  },
+  {
+    "packageName": "dev.arabi.skystream.tuniflix",
+    "name": "Tuniflix",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Series, embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Tuniflix.cs3",
+    "originalFileHash": "sha256-14a4553a97f20063f294bf38ab70317e54e496d94a4923ebad830dc966e63f88",
+    "originalFileSize": 26298,
+    "portingStatus": "medium",
+    "portingNote": "Series, embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.tvgarden",
+    "name": "TVgarden(Famelack)",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Live IPTV. M3U playlist parsing.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie",
+      "LiveTv"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Lci-tXtOtWaHcEp9An7bqIkXs4yzH7EcfA&s",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TVgarden.cs3",
+    "originalFileHash": "sha256-2e81fb135538fb427a6ea20d7a9a4472d240826136088c0deb09352a5c24ee5e",
+    "originalFileSize": 15565,
+    "portingStatus": "medium",
+    "portingNote": "Live IPTV. M3U playlist parsing."
+  },
+  {
+    "packageName": "dev.arabi.skystream.viu",
+    "name": "VIU",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] OAuth-gated REST API. Needs auth flow ported.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://img.utdstc.com/icon/a99/c9e/a99c9ee56e731144b335282e9981a54a7584be93fc9644ad7a03b45552307876:200",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Viu.cs3",
+    "originalFileHash": "sha256-9ff5e88654aa3d58257d681042b74119e55e0f6417b4774532797e923ca63e40",
+    "originalFileSize": 38046,
+    "portingStatus": "medium",
+    "portingNote": "OAuth-gated REST API. Needs auth flow ported."
+  },
+  {
+    "packageName": "dev.arabi.skystream.wecima",
+    "name": "WeCima",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Movies, packer + embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "Other"
+    ],
+    "iconUrl": "https://wecima.ac/static/img/favicon.png",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Wecima.cs3",
+    "originalFileHash": "sha256-98b3b61a6e305f48c154cbca21d6bc162d6514dab8ab6d8253978a1422924fdb",
+    "originalFileSize": 29438,
+    "portingStatus": "hard",
+    "portingNote": "Movies, packer + embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.witanime",
+    "name": "Witanime",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[HARD] Anime, packer + embed hosts.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Witanime.cs3",
+    "originalFileHash": "sha256-82920869d407a954b22353155231f4f5aa345d39d5ad3a09ce0f73318d3e0f2d",
+    "originalFileSize": 73906,
+    "portingStatus": "hard",
+    "portingNote": "Anime, packer + embed hosts."
+  },
+  {
+    "packageName": "dev.arabi.skystream.yacintv",
+    "name": "Yacintv",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] Firebase-backed REST. Needs Firebase endpoint ported.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "TvSeries",
+      "LiveTv",
+      "Movie"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/ulm35tweg3do5istps0TgCjMmJSVczGUL2NIrXMwI1DDRi5ty29BIzQSUHVgqZN5CSo1PHhiA6M=s900-c-k-c0x00ffffff-no-rj",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Yacintv.cs3",
+    "originalFileHash": "sha256-440fb181a313ab67f7d420f4a657eb02dcd65a0aa75df28db4e3994b5ba72c1d",
+    "originalFileSize": 24443,
+    "portingStatus": "medium",
+    "portingNote": "Firebase-backed REST. Needs Firebase endpoint ported."
+  },
+  {
+    "packageName": "dev.arabi.skystream.youtube",
+    "name": "YouTube",
+    "version": 0,
+    "baseUrl": "",
+    "description": "[MEDIUM] YouTube extraction — uses yt-dlp-style. Large; needs dedicated port.",
+    "authors": [
+      "Abodabodd (original)"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "LiveTv",
+      "Anime",
+      "Other"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A2%D9%A0%D9%A6_%D9%A1%D9%A7%D9%A2%D9%A6%D9%A1%D9%A6.jpg",
+    "originalCs3Url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Youtube.cs3",
+    "originalFileHash": "sha256-dc1d7eed7ec6bdf47ff36d1ee60b1062e974399ee2995563f62229114b63e530",
+    "originalFileSize": 129346,
+    "portingStatus": "medium",
+    "portingNote": "YouTube extraction — uses yt-dlp-style. Large; needs dedicated port."
+  }
+]

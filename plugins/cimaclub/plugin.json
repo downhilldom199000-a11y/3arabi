@@ -1,0 +1,10 @@
+{
+  "packageName": "dev.arabi.skystream.cimaclub",
+  "name": "CimaClub",
+  "version": 1,
+  "baseUrl": "https://cimacub.com",
+  "description": "Arabic movies & series (cimaclub) — ported from CloudStream re-3arabi. NOTE: original used CloudStream ExtractorApi for embed hosts (vidplay/streamtape etc.). SkyStream has no ExtractorApi equivalent, so embed URLs are emitted as StreamResults directly (plays when the URL is a direct media file; lists otherwise).",
+  "authors": ["Abodabodd (original)", "SkyStream port"],
+  "languages": ["ar"],
+  "categories": ["Movie", "TvSeries"]
+}

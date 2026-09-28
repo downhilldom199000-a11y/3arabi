@@ -1,0 +1,10 @@
+{
+  "packageName": "dev.arabi.skystream.aflaam",
+  "name": "Aflaam",
+  "version": 1,
+  "baseUrl": "https://aflaam.com",
+  "description": "Arabic movies & series (aflaam.com) — ported from CloudStream re-3arabi. Direct-quality MP4 sources, no embed extraction needed.",
+  "authors": ["Abodabodd (original)", "SkyStream port"],
+  "languages": ["ar"],
+  "categories": ["Movie", "TvSeries"]
+}
