@@ -87,5 +87,27 @@
     "fileSize": 8880,
     "status": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
+  },
+  {
+    "packageName": "dev.arabi.skystream.topcinema",
+    "name": "Top Cinema",
+    "version": 1,
+    "baseUrl": "https://topcinema.io",
+    "description": "Arabic movies & series (Top Cinema) — ported from CloudStream re-3arabi. Multi-server support: VideoTube (vidtube) embed unpacked via Dean-Edwards packer + 8 external hosts emitted as StreamResults.",
+    "authors": [
+      "Abodabodd (original)",
+      "SkyStream port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.topcinema.sky",
+    "fileSize": 9792,
+    "status": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   }
 ]
