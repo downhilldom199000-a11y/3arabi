@@ -2,7 +2,7 @@
   {
     "packageName": "dev.arabi.skystream.threeisk",
     "name": "3isk | قصة عشق",
-    "version": 5,
+    "version": 6,
     "baseUrl": "https://3esk.onl",
     "description": "Arabic movies & TV series (قصة عشق) — ported from CloudStream re-3arabi to SkyStream native JS plugin. Supports search, home catalog, series + movie load, multi-server embed extraction with Dean-Edwards packer unpacking.",
     "authors": [
@@ -17,14 +17,14 @@
       "TvSeries"
     ],
     "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.threeisk.sky",
-    "fileSize": 10244,
+    "fileSize": 10957,
     "status": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   },
   {
     "packageName": "dev.arabi.skystream.aflaam",
     "name": "Aflaam",
-    "version": 5,
+    "version": 6,
     "baseUrl": "https://aflaam.com",
     "description": "Arabic movies & series (aflaam.com) — ported from CloudStream re-3arabi. Direct-quality MP4 sources, no embed extraction needed.",
     "authors": [
@@ -39,14 +39,14 @@
       "TvSeries"
     ],
     "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.aflaam.sky",
-    "fileSize": 8872,
+    "fileSize": 9219,
     "status": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   },
   {
     "packageName": "dev.arabi.skystream.akwam",
     "name": "Akwam",
-    "version": 5,
+    "version": 6,
     "baseUrl": "https://akwam.ss",
     "description": "Arabic movies, series & anime (akwam) — ported from CloudStream re-3arabi. Auto-updating base URL, multi-season series support, direct MP4 quality sources.",
     "authors": [
@@ -62,14 +62,14 @@
       "Anime"
     ],
     "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.akwam.sky",
-    "fileSize": 9972,
+    "fileSize": 10226,
     "status": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   },
   {
     "packageName": "dev.arabi.skystream.cimaclub",
     "name": "CimaClub",
-    "version": 5,
+    "version": 6,
     "baseUrl": "https://w.cimacub.com",
     "description": "Arabic movies & series (cimaclub) — ported from CloudStream re-3arabi. NOTE: original used CloudStream ExtractorApi for embed hosts (vidplay/streamtape etc.). SkyStream has no ExtractorApi equivalent, so embed URLs are emitted as StreamResults directly (plays when the URL is a direct media file; lists otherwise).",
     "authors": [
@@ -84,7 +84,29 @@
       "TvSeries"
     ],
     "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.cimaclub.sky",
-    "fileSize": 8554,
+    "fileSize": 8880,
+    "status": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
+  },
+  {
+    "packageName": "dev.arabi.skystream.topcinema",
+    "name": "Top Cinema",
+    "version": 1,
+    "baseUrl": "https://topcinema.io",
+    "description": "Arabic movies & series (Top Cinema) — ported from CloudStream re-3arabi. Multi-server support: VideoTube (vidtube) embed unpacked via Dean-Edwards packer + 8 external hosts emitted as StreamResults.",
+    "authors": [
+      "Abodabodd (original)",
+      "SkyStream port"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "url": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main/dist/dev.arabi.skystream.topcinema.sky",
+    "fileSize": 9792,
     "status": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/downhilldom199000-a11y/3arabi/main"
   }
